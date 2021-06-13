@@ -10,5 +10,7 @@ The back-end is on http://localhost:8000/
 
 
 To run the front-end type:
-```npm run serve```
+```
+npm run serve
+```
 The front-end is on http://localhost:8080/
